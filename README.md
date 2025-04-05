@@ -1,7 +1,7 @@
 # OmniHuman
 
 > [!IMPORTANT]
-> <div align="center"><h3>This is the Original one<br>that bytedance stole from,<br>this isn't their plagiarized mock article 😒<br>#protect_open_source</h3></div>
+> <div align="center"><h3>This is the Original one<br>this isn't bytedance's plagiarized mock article 😒<br>#protect_open_source</h3></div>
 
 <div align="center">
 
