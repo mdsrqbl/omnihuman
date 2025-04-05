@@ -1,5 +1,8 @@
 # OmniHuman
 
+> [!IMPORTANT]
+> <div align="center"><h3>This is the Original one<br>that bytedance stole from,<br>this isn't their plagiarized mock article 😒<br>#protect_open_source</h3></div>
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/69a319dc-9880-464e-a895-d04640824a12" height=400/>
@@ -73,6 +76,6 @@ Full documentation is available at [omnihuman.readTheDocs.io](https://omnihuman.
 
 This project is licensed under Apache License 2.0 - see the [LICENSE](https://github.com/mdsrqbl/omnihuman/blob/main/LICENSE) file for details.
 
-You are permitted to use the library & models, create modified versions, or incorporate pieces of the code into your own work. Your product or research, whether commercial or non-commercial, must provide appropriate credit to the original author(s) by citing this repository & research papers.
+You are permitted to use the library & models, create modified versions, or incorporate pieces of the code into your own work. Your product or research, whether commercial or non-commercial, must provide appropriate credit to the original author(s) by citing this repository & research papers. And although it follows common sense, you can not steal namespace and must put in the effort to give your work an original name. 
 
 Stay tuned for research papers!
