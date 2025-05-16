@@ -78,4 +78,4 @@ def linkcode_resolve(domain, info) -> Optional[str]:
 
 html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
-# html_logo = "_static/omnihuman_logo.png"
+html_logo = "https://github.com/user-attachments/assets/69a319dc-9880-464e-a895-d04640824a12"

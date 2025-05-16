@@ -5,7 +5,6 @@ OmniHuman
 Python deep learning package for all things human body and text.
 """
 
-__all__ = ["utils", "models", "read_frames"]
+__all__ = ["data", "utils", "models"]
 
-from omnihuman import models, utils
-from omnihuman.utils.io import read_frames
+from omnihuman import data, models, utils

@@ -5,6 +5,4 @@ Utils Subpackage
 This subpackage contains the utility functions for omnihuman package.
 """
 
-__all__ = ["io"]
-
-from omnihuman.utils import io
+from omnihuman.utils.io import fetch_pretrained_weights, read_frames

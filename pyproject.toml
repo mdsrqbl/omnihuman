@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "omnihuman"
-version = "0.1.1"
+version = "0.1.2"
 description = "AI model that understands text and humanoids."
 authors = ["Mudassar Iqbal <mdsriqb@gmail.com>"]
 license = "Apache 2.0"
@@ -11,14 +11,13 @@ homepage = "https://github.com/mdsrqbl/omnihuman.git"
 keywords = ["ai", "nlp", "text", "humanoids", "pose", "computer-vision"]
 
 [tool.poetry.dependencies]
-python = ">=3.8,<3.13"
+python = ">=3.8"
+transformers = "^4.51.3"
 torch = "^2.2.2"
 torchvision = [
     { version = "^0.17.2", python = "<3.12" },
     { version = ">=0.18", python = ">=3.12" },
 ]
-numpy = "<2"
-
 
 [build-system]
 requires = ["poetry-core"]
