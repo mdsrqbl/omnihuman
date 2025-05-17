@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "omnihuman"
-version = "0.1.2"
+version = "0.1.3"
 description = "AI model that understands text and humanoids."
 authors = ["Mudassar Iqbal <mdsriqb@gmail.com>"]
 license = "Apache 2.0"
